@@ -1,0 +1,46 @@
+{
+  "ShowInstagramPosts": false,
+  "Brand": "Clover Lemon",
+  "ContactInfo": [
+    {
+      "type": "Email",
+      "text": "cloverlemon_support@website.com"
+    },
+    {
+      "type": "Address",
+      "text": "A32 , Ave 15th Street, Door 211, San Franciso, USA 32490."
+    },
+    {
+      "type": "Phone",
+      "text": "(+1) 2345 678 44 88"
+    }
+  ],
+  "Heading1": "FOLLOW US",
+  "Heading2": "NEWSLETTER",
+  "Para": "Sign up for subscribe out newsletter!",
+  "Button": "Subscribe",
+  "FieldPlaceholder": "Your Email",
+  "Copyright": "© 2022, Clover Lemon Template. Made with passion by ",
+  "CompanyName": "Clover Lemon",
+  "CompanyUrl": "#0",
+  "Social": [
+    {
+      "name": "twitter",
+      "icon": "fa-twitter",
+      "visible": true,
+      "url": "#0"
+    },
+    {
+      "name": "discord",
+      "icon": "fa-discord",
+      "visible": true,
+      "url": "#0"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fa-linkedin",
+      "visible": true,
+      "url": "#0"
+    }
+  ]
+}

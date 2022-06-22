@@ -1,0 +1,40 @@
+{
+  "SliderImages": [
+    "/assets/slider/1.jpg",
+    "/assets/slider/2.jpg",
+    "/assets/slider/3.jpg"
+  ],
+  "ButtonText": "Discover Work",
+  "Slider": [
+    {
+      "id": 1,
+      "title": {
+        "first": "Unique brand",
+        "second": "About"
+      },
+      "para": "A web2.0 Company found in year 2016 by focusing on IT Tech solution for the event industry, transiting into web3.0 by providing blockchain solutions",
+      "button": "Discover Work",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": {
+        "first": "UNIQUE VISION",
+        "second": "Metaverse"
+      },
+      "para": "Design and build your virtual space for event, exhibition or any occasion that you have never imagined before.",
+      "button": "Discover Work",
+      "url": "/work"
+    },
+    {
+      "id": 3,
+      "title": {
+        "first": "UNIQUE APPROACH",
+        "second": "NFTs"
+      },
+      "para": "Turnkey solutions for your next NFTs launch from consultation, discord and twitter management with community building until the minting day and beyond.",
+      "button": "Discover Work",
+      "url": ""
+    }
+  ]
+}

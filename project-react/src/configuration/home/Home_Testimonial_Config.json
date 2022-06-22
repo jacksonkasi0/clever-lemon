@@ -1,0 +1,25 @@
+{
+    "ThinHeading": "WHAT PEOPLE SAY?",
+    "BoldHeading": "Testimonials.",
+    "LowOpacityHeading": "Testimonials",  
+    "Testimonials": [
+        {
+            "para": "Cloverlemon created a professional NFTs minting platform for our NFTs, discord channel and twitter. Literally a turnkey solution for a successful NFTs project and the results from the minting day affirmed that Cloverlemon solutions work.",
+            "img": "/assets/home_testimonials/1.jpg",
+            "name": "ALEX REGELMEN",
+            "designation": "Co-founder, Colabrio"
+        },
+        {
+            "para": "Cloverlemon created a professional NFTs minting platform for our NFTs, discord channel and twitter. Literally a turnkey solution for a successful NFTs project and the results from the minting day affirmed that Cloverlemon solutions work.",
+            "img": "/assets/home_testimonials/1.jpg",
+            "name": "ALEX REGELMEN",
+            "designation": "Co-founder, Colabrio"
+        },
+        {
+            "para": "Cloverlemon created a professional NFTs minting platform for our NFTs, discord channel and twitter. Literally a turnkey solution for a successful NFTs project and the results from the minting day affirmed that Cloverlemon solutions work.",
+            "img": "/assets/home_testimonials/1.jpg",
+            "name": "ALEX REGELMEN",
+            "designation": "Co-founder, Colabrio"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "Heading": "About Us",
+  "Subheading": "Years of working experience in the web2 IT solution to web3 services.",
+  "Paras": [
+    "A web2.0 Company found in year 2016 by Rosanna focusing on IT Tech solution for the event industry under the brand Evention. On top of that she has also worked on projects like Team which provide instant messaging solution for enterprises.",
+    "With Rosanna’s years of web2 experience, the support of our inhouse developer and the trend of decentralize apps, Cloverlemon transit from a web2 to a web3 company.",
+    "Today Cloverlemon has activated Metaverse projects such as virtual NFTs gallery and event to supporting NFTs launch."
+  ],
+  "Button": "Know more",
+  "Image": "/assets/home_about/1.jpg",
+  "Skill_1": {
+    "progress": "90",
+    "thin_heading": "Project",
+    "bold_heading": "consulting"
+  },
+  "Skill_2": {
+    "progress": "75",
+    "thin_heading": "App",
+    "bold_heading": "Development"
+  }
+}

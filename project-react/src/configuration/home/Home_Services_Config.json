@@ -1,0 +1,26 @@
+{
+  "Services": [
+    {
+      "heading": "WEB3 services",
+      "para": "What is web3 services?",
+      "extra_class": "xtop",
+      "icon": "pe-7s-gleam"
+    },
+    {
+      "heading": "NFTS",
+      "para": "Web & App Development on blockchain?",
+      "extra_class": "xcolor",
+      "icon": "pe-7s-phone"
+    },
+    {
+      "heading": "WEB3 services",
+      "para": "Web3 things like smart contract?",
+      "extra_class": "xbottom",
+      "icon": "pe-7s-magic-wand"
+    }
+  ],
+  "ThinHeader": "Best Features",
+  "BoldHeader": "Services.",
+  "LowOpacityHeader": "Services",
+  "Button": "Discover More"
+}

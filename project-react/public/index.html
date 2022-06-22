@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/favicon.ico" />
+
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <title>Clever Lemon</title>
+  </head>
+  <body>
+    <noscript>You need to enable Javascript to run this app.</noscript>
+
+    <script
+      id="pace"
+      strategy="beforeInteractive"
+      src="./js/pace.min.js"
+    ></script>
+
+    <script
+      strategy="beforeInteractive"
+      id="splitting"
+      src="./js/splitting.min.js"
+    ></script>
+
+    <script id="simpleParallax" src="./js/simpleParallax.min.js"></script>
+    <script
+      id="isotope"
+      strategy="beforeInteractive"
+      src="./js/isotope.pkgd.min.js"
+    ></script>
+    <script id="wow" src="./js/wow.min.js"></script>
+
+    <script id="initWow" strategy="lazyOnload">
+      {
+        `new WOW().init();`;
+      }
+    </script>
+
+    <div id="root"></div>
+  </body>
+</html>

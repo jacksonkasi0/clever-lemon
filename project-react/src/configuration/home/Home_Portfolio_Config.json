@@ -1,0 +1,34 @@
+{
+  "LowOpacityHeader": "Portfolio",
+  "ThinHeader": "Portfolio",
+  "BoldHeader": "Our Works.",
+  "Sections": [
+    {
+      "img": "/assets/home_portfolio/1.jpg",
+      "heading": "METAVERSE",
+      "sub_heading": "Refinanble Metaverse NFTs Gallery",
+      "url": "#"
+    },
+    {
+      "img": "/assets/home_portfolio/2.jpg",
+      "heading": "METAVERSE",
+      "sub_heading": "DOKO Metaverse HQ",
+      "url": "#"
+    },
+    {
+      "img": "/assets/home_portfolio/3.jpg",
+      "heading": "NFTs",
+      "sub_heading": "MANDALAFON NFTs Launch",
+      "url": "#"
+    },
+    {
+      "img": "/assets/home_portfolio/4.jpg",
+      "heading": "NFTs",
+      "sub_heading": "MANDALAFON NFTs Launch",
+      "url": "#"
+    }
+  ],
+  "MaxItemsPerViewLG": 4,
+  "MaxItemsPerViewMD": 2,
+  "MaxItemsPerViewSM": 1
+}
